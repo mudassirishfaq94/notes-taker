@@ -1,5 +1,9 @@
 # Notes Taker
 
+[![Deploy static site to GitHub Pages](https://github.com/mudassirishfaq94/notes-taker/actions/workflows/pages.yml/badge.svg)](https://github.com/mudassirishfaq94/notes-taker/actions/workflows/pages.yml)
+
+Live site (after first deployment): https://mudassirishfaq94.github.io/notes-taker/
+
 A simple, modern notes app built with HTML, Tailwind CSS, and vanilla JavaScript. Notes are stored locally in your browser using localStorage.
 
 ## Features
